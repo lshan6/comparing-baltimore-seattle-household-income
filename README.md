@@ -10,4 +10,6 @@ The following chart shows the median househould income in 1990 and 2016 for Balt
 
 ![alt text](https://github.com/lshan6/comparing-baltimore-seattle-household-income/blob/master/chart.PNG)
 
-There are several potential factors that affect the social mobility, such as the teenage brith rate, high school graduation rate, college graduation rate and job growth rate in both cities. It shows that Seattle has a lower teenage birth rate, higher school graduation rate, higher college graduation rate, and higher job growth rate. 
+There are several potential factors that affect the social mobility, such as the teenage brith rate, high school graduation rate, college graduation rate and job growth rate in both cities. It shows that Seattle has a lower teenage birth rate, higher school graduation rate, higher college graduation rate, and higher job growth rate. (Shown below)
+
+![alt text](https://github.com/lshan6/comparing-baltimore-seattle-household-income/blob/master/chart%202.PNG)
